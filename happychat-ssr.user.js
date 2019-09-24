@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Happychat WooCommerce SSR
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.01
 // @description  Adds buttons to copy SSR or open in popup
 // @author       Senff
 // @require      https://code.jquery.com/jquery-1.12.4.js
